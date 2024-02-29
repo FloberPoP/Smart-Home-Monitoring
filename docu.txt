@@ -1,0 +1,7 @@
+sudo pip3 install picamera #camara modul
+sudo raspi-config
+Navigate to "Interfacing Options" using the arrow keys and press Enter.
+Select "Camera" and press Enter.
+Choose "Yes" when prompted to enable the camera.
+Press "Finish" to exit the configuration tool.
+Reboot your Raspberry Pi to apply the changes:
