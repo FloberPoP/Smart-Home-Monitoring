@@ -5,3 +5,14 @@ Select "Camera" and press Enter.
 Choose "Yes" when prompted to enable the camera.
 Press "Finish" to exit the configuration tool.
 Reboot your Raspberry Pi to apply the changes:
+
+
+
+Ideas:
+
+Cloudinary/Firebase for image/video Storage
+Blynk images widget with Web Page button
+Blynk diagrams for sensors
+Email witch picture (over Gmail-SMTP)
+
+motion detector: Camera with pictures every 5 sec. or so / try sensor MH-SR602  
